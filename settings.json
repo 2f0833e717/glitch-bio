@@ -6,18 +6,13 @@
   "avatarImage": "https://cdn.glitch.me/28de2d94-6ff0-45ab-91f6-749dd46e649e%2Fme.jpg?v=1634905358470",
   "links": [
     {
-      "url": "https://glitch.new/links",
-      "text": "Remix! Have your own Glitch-in-bio running in seconds.",
+      "url": "https://phillywebdeveloper.me",
+      "text": "My freelance / portfolio site.",
       "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484"
     },
     {
-      "url": "https://glitch.com/edit/#!/christinavoudouris?path=README.md",
-      "text": "View source! Check out the code to see how it's built.",
-      "img": ""
-    },
-    {
-      "url": "https://www.glitch.com/",
-      "text": "Built by and on Glitch, the easiest way to build the web.",
+      "url": "https://glitch.com/@christinavoudouris/projects",
+      "text": "Favorite projects I've built on Glitch.",
       "img":"https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
     }
   ],
