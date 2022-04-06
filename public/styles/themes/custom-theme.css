@@ -19,3 +19,13 @@ TIP: Get started creating your own theme here
 }
 
 /* Add your style rules! */
+
+body {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 25%,
+    rgba(45, 45, 45, 1) 75%,
+    rgba(92, 92, 92, 1) 100%
+  );
+}
