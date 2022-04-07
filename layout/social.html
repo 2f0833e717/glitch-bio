@@ -6,8 +6,7 @@
     <a
       aria-label="{{settings.name}} on Glitch"
       href="{{settings.social.glitch}}"
-      target="_blank"
-    >
+      target="_blank" rel="noopener noreferrer">
       <svg
         class="social-profile-icon"
         viewBox="0 0 24 24"
@@ -28,7 +27,7 @@
     <a
       aria-label="{{settings.name}} on GitHub"
       href="{{settings.social.github}}"
-      target="_blank"
+      target="_blank" rel="noopener noreferrer"
     >
       <svg
         class="social-profile-icon"
@@ -51,7 +50,7 @@
     {{#if settings.social.hashnode}}
     <a
       aria-label="{{settings.name}} on Hashnode"
-      href="{{settings.social.hashnode}}"
+      href="{{settings.social.hashnode}}" target="_blank" rel="noopener noreferrer"
     >
       <svg
         class="social-profile-icon"
@@ -76,7 +75,7 @@
     {{#if settings.social.kofi}}
     <a
       aria-label="Support {{settings.name}} on Ko-Fi"
-      href="{{settings.social.kofi}}"
+      href="{{settings.social.kofi}}" target="_blank" rel="noopener noreferrer"
     >
       <svg
         class="social-profile-icon"
