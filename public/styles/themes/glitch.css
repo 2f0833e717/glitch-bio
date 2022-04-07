@@ -21,7 +21,7 @@ Select your chosen CSS by adding the theme name (e.g. glitch) in settings.json
 :root {
   --color-bg: #9480FF;
   --color-bg-alt: #D7F5EF;
-  --color-text-main: white;
+  --color-text-main: black;
   --color-primary: #AFECE0;
   --theme-color-title: white;
   --font-family: "HK Grotesk";
@@ -43,6 +43,7 @@ ul.link-list li a:visited {
 ul.link-list li a:hover {
   border: 4px solid var(--theme-color-title);
 }
+
 ul.link-list li a img {
   display: none;
 }

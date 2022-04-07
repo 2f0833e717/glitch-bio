@@ -9,9 +9,10 @@ TIP: Get started creating your own theme here
 ******************************************************************************/
 
 :root {
-  --font-family: Arial, sans-serif;
-  --font-family-header: Arial, sans-serif;
-  --font-family-list: Arial, sans-serif;
+  --font-family: Monospace, serif;
+  --font-family-header: Monospace, serif;
+  --font-family-list: Monospace, serif;
+  --theme-color-title: white;
   --color-bg: #9480FF;
   --color-bg-alt: #D7F5EF;
   --color-text-main: white;
@@ -24,8 +25,8 @@ body {
   background: rgb(0, 0, 0);
   background: linear-gradient(
     180deg,
-    rgba(0, 0, 0, 1) 25%,
-    rgba(45, 45, 45, 1) 85%,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(45, 45, 45, 1) 90%,
     rgba(92, 92, 92, 1) 100%
   );
 }
@@ -41,6 +42,7 @@ ul.link-list li a:visited {
 }
 ul.link-list li a:hover {
   border: 4px solid var(--theme-color-title);
+  color: black;
 }
 ul.link-list li a img {
   display: none;
