@@ -9,9 +9,9 @@ TIP: Get started creating your own theme here
 ******************************************************************************/
 
 :root {
-  --font-family: Monospace, serif;
-  --font-family-header: Monospace, serif;
-  --font-family-list: Monospace, serif;
+  --font-family: 'Montserrat', sans-serif;
+  --font-family-header: 'Montserrat', sans-serif;
+  --font-family-list: 'Montserrat', sans-serif;
   --theme-color-title: white;
   --color-bg: #9480FF;
   --color-bg-alt: #D7F5EF;
