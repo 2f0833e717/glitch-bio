@@ -1,35 +1,35 @@
 {
-  "metaTitle": "Christina Voudouris",
-  "metaDescription": "Philly web developer experienced in responsive web design and full stack web development, with vanilla Javascript, the MERN Stack (MongoDB, Express, React, Node), WordPress, HTML, CSS, and SCSS / Sass.",
-  "name": "Christina Voudouris",
+  "metaTitle": "2f0833e717",
+  "metaDescription": "Yokohama web developer experienced in responsive web design and full stack web development, with vanilla Javascript, the PDRN Stack (PostgresDB, Django, React, Node), HTML, CSS, and SCSS / Sass.",
+  "name": "2f0833e717",
   "theme": "custom-theme",
-  "avatarImage": "https://media-exp1.licdn.com/dms/image/C4D03AQEUSXarbDKhHw/profile-displayphoto-shrink_800_800/0/1634373092174?e=1654732800&v=beta&t=FJ0FxXgrkn0p5aqKsufHLNt-g39e5_3YnMfMkwSox70",
+  "avatarImage": "https://user-images.githubusercontent.com/60743805/168173609-dacfb155-5c1f-4212-9277-42b5fa057c24.jpg",
   "links": [
     {
-      "url": "https://glitch.com/@christinavoudouris/projects",
-      "text": "Glitch playlist of personal projects",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "url": "https://twitter.com/2f0833e717",
+      "text": "[Twitter] technical blog contents"
     },
     {
-      "url": "https://blog.christinavoudouris.com",
-      "text": "my Eleventy blog (technical writing)",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484"
+      "url": "https://qiita.com/2f0833e717",
+      "text": "[Qiita] technical writing"
     },
     {
-      "url": "https://karlschultzmusic.com",
-      "text": "karlschultzmusic.com (freelance project)",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "url": "https://github.com/2f0833e717?tab=repositories",
+      "text": "[GitHub] repositories"
     },
     {
-      "url": "https://1eit.com",
-      "text": "1EIT.com (freelance project)",
-      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchdarkpinks.png?v=1634289859236"
+      "url": "https://glitch.com/@2f0833e717/projects",
+      "text": "[Glitch] projects"
+    },
+    {
+      "url": "https://twitter.com/2f0833e717",
+      "text": "TBD"
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/@christinavoudouris",
-    "github": "https://github.com/christinavoudouris",
-    "linkedin": "https://linkedin.com/in/christinavoudouris",
-    "kofi": "https://ko-fi.com/christinavoudouris"
+    "glitch": "https://glitch.com/@2f0833e717",
+    "github": "https://github.com/2f0833e717",
+    "linkedin": "https://linkedin.com/in/2f0833e717",
+    "kofi": "https://ko-fi.com/2f0833e717"
   }
 }
