@@ -906,5 +906,45 @@ C140.251,304.844 142.724,293.258 143.409,289.286 C143.809,286.909 145.648,275.79
       </svg>
     </a>
     {{/if}}
+
+    <!-- ==================== -->
+    <!-- TBD -->
+    {{#if settings.social.tbd}}
+    <a
+      aria-label="Send {{settings.name}} an TBD"
+      href="mailto:{{settings.social.tbd}}"
+      tabindex="-1"
+    >
+      <svg
+        viewBox="2 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+        width="35"
+        height="54"
+        fill="none"
+      >
+        <style>
+          @keyframes loader2 {
+            0% {
+              -webkit-transform: rotate(0);
+              transform: rotate(0);
+            }
+            to {
+              -webkit-transform: rotate(360deg);
+              transform: rotate(360deg);
+            }
+          }
+        </style>
+        <path
+          fill="#265BFF"
+          d="M17.179 13.605a.431.431 0 00.279.514l.775.245a.393.393 0 00.499-.268 7.318 7.318 0 00-4.5-8.658.39.39 0 00-.507.255l-.245.775a.43.43 0 00.261.523 5.69 5.69 0 013.438 6.614z"
+          style="
+            animation: loader2 1550ms cubic-bezier(0.63, -0.71, 0.32, 1.28) infinite
+              both;
+            transform-origin: center center;
+          "
+        />
+      </svg>
+    </a>
+    {{/if}}
   </div>
 </div>
