@@ -3,15 +3,15 @@
   "metaDescription": "Yokohama web developer experienced in responsive web design and full stack web development, with vanilla Javascript, the PDRN Stack (PostgresDB, Django, React, Node), HTML, CSS, and SCSS / Sass.",
   "name": "2f0833e717",
   "theme": "custom-theme",
-  "avatarImage": "https://user-images.githubusercontent.com/60743805/168173609-dacfb155-5c1f-4212-9277-42b5fa057c24.jpg",
+  "avatarImage": "https://cdn.glitch.global/9bee04b8-61f5-48c9-bd22-96218f56dcdd/272909853_728861681409218_6636508865217821388_n.jpg?v=1654196410400",
   "links": [
-    {
-      "url": "https://twitter.com/2f0833e717",
-      "text": "[Twitter] technical blog contents"
-    },
     {
       "url": "https://qiita.com/2f0833e717",
       "text": "[Qiita] technical writing"
+    },
+    {
+      "url": "https://zenn.dev/2f0833e717",
+      "text": "[Zenn] technical writing"
     },
     {
       "url": "https://github.com/2f0833e717",
@@ -22,35 +22,39 @@
       "text": "[Stackoverflow] knowledge community"
     },
     {
+      "url": "https://twitter.com/2f0833e717",
+      "text": "[Twitter] technical blog contents"
+    },
+    {
       "url": "https://glitch.com/@2f0833e717/projects",
       "text": "[Glitch] projects"
     }
   ],
-  "social": {    
-    "glitch": "https://glitch.com/@2f0833e717",
+  "social": {
+    "glitch": "https://notkitasima-bio.glitch.me/",
     "spotify": "",
     "substack": "",
     "dev": "",
     "facebook": "",
-    "github": "https://github.com/2f0833e717",
+    "github": "",
     "gitlab": "",
     "hashnode": "",
-    "instagram": "",
-    "linkedin": "https://linkedin.com/in/2f0833e717",
+    "instagram": "https://www.instagram.com/notkitasima/",
+    "linkedin": "",
     "medium": "",
     "patreon": "",
-    "pinterest": "",
-    "twitter": "https://twitter.com/2f0833e717",
+    "pinterest": "https://www.pinterest.jp/notkitasima/",
+    "twitter": "https://twitter.com/notkitasima",
     "youtube": "",
     "twitch": "",
-    "tiktok": "",
+    "tiktok": "https://www.tiktok.com/@notkitasima",
     "podcast": "",
-    "soundcloud": "",
+    "soundcloud": "https://soundcloud.com/kitasima-not/",
     "bandcamp": "",
     "mastodon": "",
-    "stackoverflow": "https://ja.stackoverflow.com/users/52910/2f0833e717",
+    "stackoverflow": "",
     "kofi": "",
-    "email": "skinoshita202001082135@gmail.com"
+    "email": "notkitasima@gmail.com"
   }
 }
 
