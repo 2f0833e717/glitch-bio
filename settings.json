@@ -14,35 +14,29 @@
       "text": "[Qiita] technical writing"
     },
     {
-      "url": "https://github.com/2f0833e717?tab=repositories",
+      "url": "https://github.com/2f0833e717",
       "text": "[GitHub] repositories"
+    },
+    {
+      "url": "https://ja.stackoverflow.com/users/52910/2f0833e717",
+      "text": "[Stackoverflow] knowledge community"
     },
     {
       "url": "https://glitch.com/@2f0833e717/projects",
       "text": "[Glitch] projects"
-    },
-    {
-      "url": "https://ja.stackoverflow.com/users/52910/2f0833e717",
-      "text": "[stackoverflow] knowledge community"
     }
   ],
-  "social": {
-    "glitch": "https://glitch.com/@2f0833e717",
-    "github": "https://github.com/2f0833e717",
-    "linkedin": "https://linkedin.com/in/2f0833e717",
-    "kofi": "https://ko-fi.com/2f0833e717",
-    "stackoverflow": "https://ja.stackoverflow.com/users/52910/2f0833e717",
-    
+  "social": {    
     "glitch": "https://glitch.com/@2f0833e717",
     "spotify": "",
     "substack": "",
     "dev": "",
     "facebook": "",
-    "github": "",
+    "github": "https://github.com/2f0833e717",
     "gitlab": "",
     "hashnode": "",
     "instagram": "",
-    "linkedin": "",
+    "linkedin": "https://linkedin.com/in/2f0833e717",
     "medium": "",
     "patreon": "",
     "pinterest": "",
@@ -51,7 +45,7 @@
     "twitch": "",
     "tiktok": "",
     "podcast": "",
-    "soundcloud": "https://soundcloud.com/kitasima-not/",
+    "soundcloud": "",
     "bandcamp": "",
     "mastodon": "",
     "stackoverflow": "https://ja.stackoverflow.com/users/52910/2f0833e717",
@@ -59,3 +53,4 @@
     "email": "skinoshita202001082135@gmail.com"
   }
 }
+
