@@ -1,3 +1,9 @@
+# Live site
+https://whoami-2f0833e717.glitch.me
+
+# Code
+https://glitch.com/edit/#!/whoami-2f0833e717
+
 # Glitch in Bio!
 
 Your links, your way. A link-in-bio app you can customize any way you want.
